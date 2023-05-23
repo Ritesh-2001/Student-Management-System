@@ -19,11 +19,13 @@ SQLite: The lightweight and embedded database used for storing student records.
 ### How to Run
 Ensure that Python 3 is installed on your system.
 Install the required dependencies by running the following command:
+
 pip install pyqt6 sqlite3
 
 Clone the project repository or download the source code.
 Open a terminal or command prompt and navigate to the project directory.
 Run the following command to start the application:
+
 python main.py
 
 ### Future Enhancements
